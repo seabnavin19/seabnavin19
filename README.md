@@ -28,14 +28,14 @@
 <br/>
  -->
 
-- 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
-- 🌱 I’m currently learning more about BlockChain.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech-related stuff.
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
+- 🔭 I’m currently working on [Reommendation engine API](https://github.com/seabnavin19/ML-Movies_Recommendation).
+- 🌱 I’m currently learning more about Deep learning.
+- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCXLaXxIQHHmgCx7MFCmSmKw).
+- 🤔 I’m looking for help with Recommendation engine.
+- 💬 Ask me about AI, Back-end and Tech related stuff.
+- 📫 How to reach me: [Linkin - @navin](https://www.linkedin.com/in/navin-seab-95750b1b5/) 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+- ⚡ Fun fact: I like tp build things fast but spend more time to fix it.
 
 <!-- [![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
 [![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)

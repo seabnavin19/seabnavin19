@@ -5,7 +5,7 @@
   <img align="left" alt="Chris Van's LinkedIn" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<img align="right" src="https://media.giphy.com/media/oCoDOqw7AfDFlFuCfq/giphy.gif" width="175" />
+<img align="right" src="200.gif" width="175" />
 
 <br />
 <br />

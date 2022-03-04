@@ -4,6 +4,8 @@
 <a href="https://www.linkedin.com/in/navin-seab-95750b1b5/">
   <img align="left" alt="Chris Van's LinkedIn" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=seabnavin19&label=Profile%20views&color=0e75b6&style=flat" alt="mengtongun" /> </p>
 
 <img align="right" src="200.gif" width="175" />
 
@@ -15,7 +17,6 @@ I am really interesting in AI and machine learning , start from 2nd year of my c
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seabnavin19&label=Profile%20views&color=0e75b6&style=flat" alt="mengtongun" /> </p>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seabnavin19&layout=compact&theme=radical" />
 
 

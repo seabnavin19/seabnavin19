@@ -16,7 +16,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
 #### Github Account Information
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=seabnavin19&show_icons=true&locale=en" alt="mengtongun" /></p>  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=seabnavin19&" alt="mengtongun" /></p>
 

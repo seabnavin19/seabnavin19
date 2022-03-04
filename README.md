@@ -37,5 +37,5 @@ I am really interesting in AI and machine learning , start from 2nd year of my c
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seabnavin19&show_icons=true&locale=en" alt="mengtongun" /></p>  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seabnavin19&" alt="mengtongun" /></p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seabnavin19"  /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seabnavin19"  /></a> </p> -->
  </div>

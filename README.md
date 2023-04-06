@@ -1,5 +1,5 @@
 
-<div>
+<!-- <div>
  
 <a href="https://www.linkedin.com/in/navin-seab-95750b1b5/">
   <img align="left" alt="Chris Van's LinkedIn" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -39,3 +39,4 @@ I am really interesting in AI and machine learning , start from 2nd year of my c
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seabnavin19"  /></a> </p> -->
  </div>
+ -->

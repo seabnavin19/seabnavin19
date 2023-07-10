@@ -38,7 +38,7 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@navin](mailto://seab.navin19@kit.edu.kh);
 - 📝 [Resume](https://seabnavin19.github.io/resume.pdf)
-- 👨‍💻[website] (https://seabnavin19.github.io)
+- 👨‍💻[website](https://seabnavin19.github.io)
 
 </div>
 

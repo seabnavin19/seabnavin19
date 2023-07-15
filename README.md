@@ -5,7 +5,7 @@
     <img align="left" alt="Navin's" width="28px" src="https://chrisvan.netlify.app/_nuxt/img/logo.83ff3bb.png" />
   </a>
   <a href="https://www.linkedin.com/in/navin-seab-95750b1b5/">
-    <img align="left" alt="Navin's LinkedIn" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img align="left" alt="Navin's LinkedIn" width="28px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" />
   </a>
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
       <img align="left" src="https://komarev.com/ghpvc/?username=seabnavin19&style=for-the-badge">

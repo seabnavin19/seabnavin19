@@ -1,9 +1,8 @@
-![Logo](https://seabnavin19.github.io/assets/logo.png)
 
 # Welcome to My GitHub Profile!
 
 ## About Me
-Hi there! I'm Navin Seab, a passionate developer with interests in [Mlops]. I love to explore new technologies and share my knowledge through articles and projects.
+Hi there! I'm Navin Seab, a passionate developer with interests in Machine Learning,Mlops. I love to explore new technologies and share my knowledge through articles and projects.
 
 ## Connect with Me
 - [Personal Website](https://seabnavin19.github.io/)

@@ -17,7 +17,7 @@
 <br />
 <br />
 
-#### Hello, I'm [Navin](https://chrisvan.netlify.app), As an accomplished self-taught AI/ML,engineer and Backend Developer,I possess a strong passion for working with emerging technologies and leading project teams toward the creation of impactful solutions
+#### Hello, I'm [Navin](), As an accomplished self-taught AI/ML,engineer and Backend Developer,I possess a strong passion for working with emerging technologies and leading project teams toward the creation of impactful solutions
 
 </div>
 

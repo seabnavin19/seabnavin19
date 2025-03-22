@@ -5,7 +5,7 @@
 Hi there! I'm Navin Seab, a passionate developer with interests in Machine Learning,Mlops. I love to explore new technologies and share my knowledge through articles and projects.
 
 ## Connect with Me
-- [Personal Website](https://seabnavin19.github.io/)
+- [Personal Website](https://seabnavin.com/)
 - [LinkedIn](https://www.linkedin.com/in/navin-seab-95750b1b5/)
 
 ## My Articles
